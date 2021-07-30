@@ -9,7 +9,7 @@ Hello there,
 
 My name is Rodrigo Vieira. I'm 30 and Full Stack Developer Scholarship Student @ Digital Innovation One. 
 
-Currently I've been studying Git, Node.JS and Typescript.
+Currently I've been studying Java, Angular8, Git & Spring Boot
 
 ## 👨‍💻 About me 
 - 💻 System Analisys and Development graduate student @ Unicesumar.
