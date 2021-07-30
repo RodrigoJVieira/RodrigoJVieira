@@ -11,7 +11,7 @@ My name is Rodrigo Vieira. I'm 30 and Full Stack Developer Scholarship Student @
 
 Currently I've been studying Git, Node.JS and Typescript.
 
-## 👦🏽 About me 
+## 👨‍💻 About me 
 - 💻 System Analisys and Development graduate student @ Unicesumar.
 - 🛠 Techs: Node.JS, Java, Typescript, Javascript, React.
 - 📚 Studying: CS50 Introduction to Computer Science @ HarvardX, Fullstack developer course @ Santander 
