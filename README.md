@@ -16,7 +16,7 @@ Currently I've been studying Java, Angular8, Git & Spring Boot
 - 🛠 Techs: Node.JS, Java, Typescript, Javascript, React.
 - 📚 Studying CS50 Introduction to Computer Science @ HarvardX, Fullstack developer course @ Digital Innovation One (Santander Scholarship)
 - 📚 Santander Scholarship: Fullstack Developer Bootcamp @ Digital Innovation One
-- 
+
 ## ⚛️ Best Projects
 - TypeScript/React/Node.JS
     - [TypeScript Pokedex](https://github.com/RodrigoJVieira/TypeScript-Pokedex)
