@@ -14,7 +14,7 @@ Currently I've been studying Java, Angular8, Git & Spring Boot
 ## 👨‍💻 About me 
 - 💻 System Analisys and Development graduate student @ Unicesumar.
 - 🛠 Techs: Node.JS, Java, Typescript, Javascript, React.
-- 📚 Studying: CS50 Introduction to Computer Science @ HarvardX, Fullstack developer course @ Santander 
+- 📚 Studying: CS50 Introduction to Computer Science @ HarvardX, Fullstack developer course @ Digital Innovation One (Santander Scholarship) 
 
 ## ⚛️ Best Projects
 - TypeScript/React/Node.JS
