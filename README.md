@@ -2,8 +2,8 @@
 
 <img align="right" src="https://media.giphy.com/media/hnqDFNnO8lPzVYURIZ/giphy.gif">
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alanpfabricio@gmail.com)](mailto:alanpfabricio@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alantsx/)](https://www.linkedin.com/in/alantsx/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:draorjv@gmail.com)](mailto:draorjv@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigojv/)](https://www.linkedin.com/in/rodrigojv/)
 
 Hello there,
 
